@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prince
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Web Development and pursuing B.Tech in Computer Sicience & Engineering
+- 👀 I’m interested in Java Developer Role.
+- 🌱 I’m a fresher having B.Tech Degree in Computer Science & Enginnering.
 - 💞️ I’m looking to collaborate on Web Development Program.
 - 📫 Contact Me on :: Linkedin : www.linkedin.com/in/princekrsharma  Facebook :: https://www.facebook.com/kumar.prince.06/  Instagram :: https://www.instagram.com/kumar_prince06/
 
