@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prince
 - 👀 I’m interested in Java Developer Role.
-- 🌱 I’m a fresher having B.Tech Degree in Computer Science & Enginnering.
-- 💞️ Having knowledge of Java, SpringBoot, Spring, Spring MVC, MySQL, Hibernate, Linux, JavaScript, HTML, CSS.
+- 🌱 Working as an Associate Engineer Trainee @ Innofied Solution Pvt. Ltd.
+- 💞️ Having knowledge of Java, SpringBoot, Spring, Spring MVC, MySQL, Hibernate, Linux, JavaScript, HTML, CSS. PHP, MERN Stack (MongoDB, Express JS, React JS, Node JS)
 - 📫 Contact Me on :: Linkedin : www.linkedin.com/in/princekrsharma  Facebook :: https://www.facebook.com/kumar.prince.06/  Instagram :: https://www.instagram.com/kumar_prince06/
 
 <!---
