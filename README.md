@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Prince
 # Hi, I'm Prince 👋
 
 Welcome to my GitHub profile! I am passionate about building scalable applications and continuously improving my skills as a **Java Developer**.
