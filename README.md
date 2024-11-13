@@ -14,6 +14,9 @@ Welcome to my GitHub profile! I am passionate about building scalable applicatio
 - **Full-stack**: MERN Stack (MongoDB, Express, React, Node.js)
 - **Tools**: Linux, Git, Docker, IntelliJ IDEA, VS Code
 
+## 🧑‍💻 Languages Most Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarprince06&layout=compact&langs_count=6)
+
 ## 📈 GitHub Stats
 ![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarprince06&show_icons=true&count_private=true&hide_title=true)
 
