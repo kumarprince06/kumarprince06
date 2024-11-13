@@ -1,4 +1,4 @@
-![logo](https://github.com/kumarprince06/kumarprince06/main/200w.gif)
+![logo](https://github.com/kumarprince06/kumarprince06/main/data%200w.gif)
 # Hi, I'm Prince 👋
 
 Welcome to my GitHub profile! I am passionate about building scalable applications and continuously improving my skills as a **Java Developer**.
