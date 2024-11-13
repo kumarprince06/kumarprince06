@@ -1,4 +1,5 @@
-![Demo GIF](https://github.com/kumarprince06/kumarprince06/blob/main/200w.gif)
+
+<img src="https://github.com/kumarprince06/kumarprince06/raw/main/200w.gif" width="300" height="200">
 
 # Hi, I'm Prince 👋
 
