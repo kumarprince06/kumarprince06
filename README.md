@@ -17,16 +17,11 @@ Welcome to my GitHub profile! I am passionate about building scalable applicatio
 - **Full-stack**: MERN Stack (MongoDB, Express, React, Node.js)
 - **Tools**: Linux, Git, Docker, IntelliJ IDEA, VS Code
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h3>🧑‍💻 Languages Most Used</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarprince06&layout=compact&langs_count=6" />
-  </div>
-  <div>
-    <h3>📈 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=kumarprince06&show_icons=true&count_private=true&hide_title=true" />
-  </div>
-</div>
+## 🧑‍💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarprince06&layout=compact&langs_count=6)
+
+## 📈 GitHub Stats
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarprince06&show_icons=true&count_private=true&hide_title=true)
 
 ## 🌐 Connect with Me
 - **LinkedIn**: [linkedin.com/in/princekrsharma](https://www.linkedin.com/in/kumarprince06)
