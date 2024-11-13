@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am passionate about building scalable applicatio
 - **Tools**: Linux, Git, Docker, IntelliJ IDEA
 
 ## 📈 GitHub Stats
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince&show_icons=true&count_private=true&hide_title=true)
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarprince06&show_icons=true&count_private=true&hide_title=true)
 
 ## 🌐 Connect with Me
 - **LinkedIn**: [linkedin.com/in/princekrsharma](https://www.linkedin.com/in/princekrsharma)
