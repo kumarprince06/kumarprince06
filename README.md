@@ -1,5 +1,5 @@
 
-<img src="https://github.com/kumarprince06/kumarprince06/raw/main/200w.gif" width="1200" height="500">
+<img src="https://github.com/kumarprince06/kumarprince06/raw/main/200w.gif" width="1200" height="400">
 
 # Hi, I'm Prince 👋
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am passionate about building scalable applicatio
 ## 💻 Technologies & Tools
 - **Backend**: Java, PHP, Spring Boot, Hibernate, MySQL, MongoDB
 - **Frontend**: HTML, CSS, JavaScript, React.js
-- **Full-stack**: MERN Stack (MongoDB, Express, React, Node.js)
+- **Full-stack**: Java Full Stack (Java, Spring Boot, Hibernate, Thymeleaf) & MERN Stack (MongoDB, Express, React, Node.js)
 - **Tools**: Linux, Git, Docker, IntelliJ IDEA, VS Code
 
 ## 🧑‍💻 Most Used Languages
