@@ -1,10 +1,27 @@
 - 👋 Hi, I’m @Prince
-- 👀 I’m interested in Java Developer Role.
-- 🌱 Working as an Associate Engineer Trainee @ Innofied Solution Pvt. Ltd.
-- 💞️ Having knowledge of Java, SpringBoot, Spring, Spring MVC, MySQL, Hibernate, Linux, JavaScript, HTML, CSS. PHP, MERN Stack (MongoDB, Express JS, React JS, Node JS)
-- 📫 Contact Me on :: Linkedin : www.linkedin.com/in/princekrsharma  Facebook :: https://www.facebook.com/kumar.prince.06/  Instagram :: https://www.instagram.com/kumar_prince06/
+# Hi, I'm Prince 👋
 
-<!---
-kumarprince06/kumarprince06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I am passionate about building scalable applications and continuously improving my skills as a **Java Developer**.
+
+## 🌱 About Me
+- 🚀 I am currently working as an **Associate Engineer Trainee** at [Innofied Solution Pvt. Ltd.](https://www.innofied.com)
+- 👨‍💻 I have experience with **Java, Spring Boot, Hibernate, and MySQL** for backend development, as well as **JavaScript, React, and Node.js** for full-stack development.
+- 🌍 I am always looking to collaborate on **innovative projects** that challenge my skills.
+- 🤝 Feel free to reach out if you're interested in discussing **Java development**, **MERN stack**, or **open-source contributions**.
+
+## 💻 Technologies & Tools
+- **Backend**: Java, Spring Boot, Hibernate, MySQL
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Full-stack**: MERN Stack (MongoDB, Express, React, Node.js)
+- **Tools**: Linux, Git, Docker, IntelliJ IDEA
+
+## 📈 GitHub Stats
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince&show_icons=true&count_private=true&hide_title=true)
+
+## 🌐 Connect with Me
+- **LinkedIn**: [linkedin.com/in/princekrsharma](https://www.linkedin.com/in/princekrsharma)
+- **Facebook**: [facebook.com/kumar.prince.06](https://www.facebook.com/kumar.prince.06/)
+- **Instagram**: [instagram.com/kumar_prince06](https://www.instagram.com/kumar_prince06/)
+
+## 🎯 I’m always open to opportunities and collaborations. Feel free to contact me!
+
