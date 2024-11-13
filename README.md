@@ -24,9 +24,7 @@ Welcome to my GitHub profile! I am passionate about building scalable applicatio
 
 ## 🌐 Connect with Me
 <a href="https://linkedin.com/in/kumarprince06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arka-pravo-dutta-359200215" height="30" width="40" /></a>
-
 <a href="https://fb.com/kumar.prince.06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xoroxeo" height="30" width="40" /></a>
-
 <a href="https://instagram.com/kumar_prince06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="behziniger" height="30" width="40" /></a>
 
 
