@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am passionate about building scalable applicatio
 ![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarprince06&show_icons=true&count_private=true&hide_title=true)
 
 ## 🌐 Connect with Me
-- **LinkedIn**: [linkedin.com/in/princekrsharma](https://www.linkedin.com/in/kumarprince06)
+- **LinkedIn**: [linkedin.com/in/kumarprince06](https://www.linkedin.com/in/kumarprince06)
 - **Facebook**: [facebook.com/kumar.prince.06](https://www.facebook.com/kumar.prince.06/)
 - **Instagram**: [instagram.com/kumar_prince06](https://www.instagram.com/kumar_prince06/)
 
