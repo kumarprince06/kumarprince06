@@ -1,5 +1,5 @@
 
-<img src="https://github.com/kumarprince06/kumarprince06/raw/main/200w.gif" width="900" height="200">
+<img src="https://github.com/kumarprince06/kumarprince06/raw/main/200w.gif" width="1200" height="500">
 
 # Hi, I'm Prince 👋
 
